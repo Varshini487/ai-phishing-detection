@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+xgboost
+requests
+whois
+DNS
+numpy
+pandas
